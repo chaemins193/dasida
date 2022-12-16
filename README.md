@@ -140,7 +140,7 @@
 # 폴더구조
 
 ```
-🖥 front
+🖥 front (private)
 ├─ 📁node_modules
 ├─ 📁public
 └─ 📁src 
