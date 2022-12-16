@@ -72,15 +72,12 @@
 
    국내 생활쓰레기 배출량은 매년 꾸준히 증가하고 있습니다. 그 원인에는 다양한 이유들이 있겠지만 짧은 유행과 그에 따른 소비 트렌드 변화, 배달/택배 서비스 등의 증가로 인한 일회용 쓰레기의 증가 등을 생각해볼 수 있습니다.
 
-    <img src="./front/src/assets/images/readmeimages/nervousPiChart.png" style="width:500px">
 
         사람들은 현재 환경문제에 대한 불안감이 높은 편으로 나타납니다
 
-    <img src="./front/src/assets/images/readmeimages/activeBarChart.png" style="width:500px">
 
         사람들이 환경문제에 대해 불안감을 가지고 있고, 그만큼 환경문제에 관심을 가지고 노력하는 사람이 많아지고 있다는 것을 알 수 있습니다.
 
-    <img src="./front/src/assets/images/readmeimages/garbageDataChart.png" style="width:500px">
 
         그럼에도 불구하고 우리나라 생활쓰레기 배출량을 점점 증가하고 있습니다
 
@@ -95,12 +92,6 @@
     **업사이클링**은 리사이클링(재활용)보다 확장된 개념으로 버려지는 제품을 기능성과 심미성을 갖춘, 새로운 차원의 부가가치를 지닌 제품으로 재탄생 시키는 것입니다.
  
     전세계적으로 볼 때 우리나라는 업사이클링에 대한 인지도가 낮고 업사이클 시장규모도 작습니다. 시장규모는 증가해왔으나 다른 선진국들과 비교하면 그 수치는 매우 작습니다.
-
-    
-
-
-    <img src="./front/src/assets/images/readmeimages/upcycleStatus.png" style="width:500px">
-    출처:트렌드모니터
 
     <br/>
 
