@@ -28,7 +28,7 @@
 
 ### 3. ERD<br>
 
-<img src = "/uploads/fd42ef9b98381fc2609e5cc15dc99bec/스크린샷_2022-10-22_오전_2.02.26.png" height=600/>
+![다시, 다 ERD](https://user-images.githubusercontent.com/63277996/208045778-07eda51b-3b1b-48d4-8556-2cf1148cdb34.jpg)
   <br>
 
 ### 4. API<br>
